@@ -13,7 +13,7 @@ is a better fix for this issue, please let me know.
 Change-Id: I266c6d21196c193e389e6773d532591df7b3534a
 ---
  services/camera/libcameraservice/api1/CameraClient.cpp | 2 ++
-1 files changed, 2 insertions(+)
+ 1 files changed, 2 insertions(+)
 
 diff --git a/services/camera/libcameraservice/api1/CameraClient.cpp b/services/camera/libcameraservice/api1/CameraClient.cpp
 index afaf12a..8d6f75c 100644
